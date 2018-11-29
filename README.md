@@ -1,2 +1,2 @@
 # hello-world
-self-teaching R
+learning more about R
